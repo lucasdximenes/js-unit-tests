@@ -27,6 +27,8 @@ Nesse projeto, foi desenvolvido:
 
 - `npm install`
 
+</details>
+
 <details>
   <summary><strong>🛠 Testes</strong></summary><br />
 
